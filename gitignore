@@ -1,0 +1,16 @@
+# Data (download separately, see README)
+*.csv
+
+# Generated outputs
+assessment10_cnn_gru_outputs/
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
